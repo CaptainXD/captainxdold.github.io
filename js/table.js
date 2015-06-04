@@ -41,15 +41,16 @@ function sort() {
         wins[key] = info[key].W;
         draws[key] = info[key].D;
         losses[key] = info[key].GP - info[key].W - info[key].D;
+        var j = i + 1;
         $("table").append(
-            "<tr>" +
-                "<td>" + key + "</td>" +
-                "<td>" + gamesPlayed[key] + "</td>" +
-                "<td>" + wins[key] + "</td>" +
-                "<td>" + draws[key] + "</td>" +
-                "<td>" + losses[key] + "</td>" +
-                "<td>" + points[key] + "</td>" +
-            "</tr>"
+            '<tr>' +
+                '<td id="' + key +'">' + info[key].Club + '</td>' +
+                '<td>' + gamesPlayed[key] + '</td>' +
+                '<td>' + wins[key] + '</td>' +
+                '<td>' + draws[key] + '</td>' +
+                '<td>' + losses[key] + '</td>' +
+                '<td>' + points[key] + '</td>' +
+            '</tr>'
         );
     }
 }
