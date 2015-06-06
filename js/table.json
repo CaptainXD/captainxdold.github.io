@@ -24,15 +24,15 @@
         "D":3
     },
     "DC": {
-        "Club":"d.c.",
+        "Club":"district of columbia",
         "GP":15,
         "W":8,
         "D":4
     },
     "HOU": {
         "Club":"houston",
-        "GP":14,
-        "W":4,
+        "GP":15,
+        "W":5,
         "D":5
     },
     "KC": {
@@ -61,7 +61,7 @@
     },
     "NY": {
         "Club":"new york",
-        "GP":12,
+        "GP":13,
         "W":4,
         "D":5
     },
