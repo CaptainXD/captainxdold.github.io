@@ -25,7 +25,7 @@
     },
     "DC": {
         "Club":"district of columbia",
-        "GP":15,
+        "GP":16,
         "W":8,
         "D":4
     },
@@ -97,8 +97,8 @@
     },
     "TOR": {
         "Club":"toronto",
-        "GP":11,
-        "W":5,
+        "GP":12,
+        "W":6,
         "D":1
     },
     "SEA": {
