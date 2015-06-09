@@ -2,3 +2,8 @@
     font-family: 'Baron';
     src: url('./fonts/Baron.otf');
 }
+
+@font-face {
+    font-family: 'Lobster';
+    src: url('./fonts/Lobster.otf');
+}
