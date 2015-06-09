@@ -13,15 +13,15 @@
     },
     "COL": {
         "Club":"colorado",
-        "GP":13,
+        "GP":14,
         "W":2,
-        "D":7
+        "D":8
     },
     "DAL": {
         "Club":"dallas",
-        "GP":13,
+        "GP":14,
         "W":6,
-        "D":3
+        "D":4
     },
     "DC": {
         "Club":"district of columbia",
@@ -43,7 +43,7 @@
     },
     "LA": {
         "Club":"los angeles",
-        "GP":15,
+        "GP":16,
         "W":5,
         "D":6
     },
@@ -55,7 +55,7 @@
     },
     "NE": {
         "Club":"new england",
-        "GP":14,
+        "GP":15,
         "W":5,
         "D":6
     },
@@ -79,8 +79,8 @@
     },
     "PDX": {
         "Club":"portland",
-        "GP":14,
-        "W":5,
+        "GP":15,
+        "W":6,
         "D":4
     },
     "PHI": {
@@ -91,9 +91,9 @@
     },
     "RSL": {
         "Club":"salt lake",
-        "GP":14,
+        "GP":15,
         "W":4,
-        "D":5
+        "D":6
     },
     "TOR": {
         "Club":"toronto",
@@ -109,14 +109,14 @@
     },
     "SJ": {
         "Club":"san jose",
-        "GP":13,
+        "GP":14,
         "W":5,
-        "D":3
+        "D":4
     },
     "VAN": {
         "Club":"vancouver",
-        "GP":15,
-        "W":7,
+        "GP":16,
+        "W":8,
         "D":2
     }
 }
