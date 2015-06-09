@@ -22,6 +22,11 @@ th {
     text-align: left;
 }
 
+@media screen and (max-width: 480px) {
+    th {
+        font-size: 22px;;
+    }
+}
 
 tr {
     border-bottom: 1px solid black;
