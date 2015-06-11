@@ -3,120 +3,180 @@
         "Club":"chicago",
         "GP":13,
         "W":4,
-        "D":2
+        "D":2,
+        "GD":-3,
+        "twitter":"ChicagoFire",
+        "id":"608902021941317632"
     },
     "CLB": {
         "Club":"columbus",
         "GP":14,
         "W":4,
-        "D":4
+        "D":4,
+        "GD":-1,
+        "twitter":"ColumbusCrewSC",
+        "id":"608901959991451648"
     },
     "COL": {
         "Club":"colorado",
         "GP":14,
         "W":2,
-        "D":8
+        "D":8,
+        "GD":-1,
+        "twitter":"ColoradoRapids",
+        "id":"608901883869036544"
     },
     "DAL": {
         "Club":"dallas",
         "GP":14,
         "W":6,
-        "D":4
+        "D":4,
+        "GD":-1,
+        "twitter":"FCDallas",
+        "id":"608901792299008000"
     },
     "DC": {
         "Club":"district of columbia",
         "GP":16,
         "W":8,
-        "D":4
+        "D":4,
+        "GD":5,
+        "twitter":"dcunited",
+        "id":"608901679317024768"
     },
     "HOU": {
         "Club":"houston",
         "GP":15,
         "W":5,
-        "D":5
+        "D":5,
+        "GD":2,
+        "twitter":"HoustonDynamo",
+        "id":"608901603706306560"
     },
     "KC": {
         "Club":"kansas city",
         "GP":14,
         "W":6,
-        "D":6
+        "D":6,
+        "GD":7,
+        "twitter":"SportingKC",
+        "id":"608901560559468544"
     },
     "LA": {
         "Club":"los angeles",
         "GP":16,
         "W":5,
-        "D":6
+        "D":6,
+        "GD":-3,
+        "twitter":"LAGalaxy",
+        "id":"608901519392382976"
     },
     "MTL": {
         "Club":"montreal",
         "GP":10,
         "W":4,
-        "D":2
+        "D":2,
+        "GD":-2,
+        "twitter":"impactmontreal",
+        "id":"608901455026651136"
     },
     "NE": {
         "Club":"new england",
         "GP":15,
         "W":5,
-        "D":6
+        "D":6,
+        "GD":0,
+        "twitter":"NERevolution",
+        "id":"608901416363524096"
     },
     "NY": {
         "Club":"new york",
         "GP":13,
         "W":4,
-        "D":5
+        "D":5,
+        "GD":0,
+        "twitter":"NewYorkRedBulls",
+        "id":"608901359622971392"
     },
     "NYC": {
         "Club":"new york city",
         "GP":14,
         "W":2,
-        "D":5
+        "D":5,
+        "GD":-6,
+        "twitter":"NYCFC",
+        "id":"608901315125628928"
     },
     "ORL": {
         "Club":"orlando",
         "GP":14,
         "W":4,
-        "D":5
+        "D":5,
+        "GD":0,
+        "twitter":"OrlandoCitySC",
+        "id":"608901160137662465"
     },
     "PDX": {
         "Club":"portland",
         "GP":15,
         "W":6,
-        "D":4
+        "D":4,
+        "GD":1,
+        "twitter":"TimbersFC",
+        "id":"608901048116215809"
     },
     "PHI": {
         "Club":"philiadelphia",
         "GP":16,
         "W":4,
-        "D":3
+        "D":3,
+        "GD":-7,
+        "twitter":"PhilaUnion",
+        "id":"608901009067286529"
     },
     "RSL": {
         "Club":"salt lake",
         "GP":15,
         "W":4,
-        "D":6
+        "D":6,
+        "GD":-5,
+        "twitter":"RealSaltLake",
+        "id":"608900863902425088"
     },
     "TOR": {
         "Club":"toronto",
         "GP":12,
         "W":6,
-        "D":1
+        "D":1,
+        "GD":3,
+        "twitter":"torontofc",
+        "id":"608900798857084928"
     },
     "SEA": {
         "Club":"seattle",
         "GP":14,
         "W":8,
-        "D":2
+        "D":2,
+        "GD":9,
+        "twitter":"SoundersFC",
+        "id":"608900677100707840"
     },
     "SJ": {
         "Club":"san jose",
         "GP":14,
         "W":5,
-        "D":4
+        "D":4,
+        "GD":-1,
+        "twitter":"SJEarthquakes",
+        "id":"608900581940314115"
     },
     "VAN": {
         "Club":"vancouver",
         "GP":16,
         "W":8,
-        "D":2
+        "D":2,
+        "GD":3,
+        "twitter":"WhitecapsFC",
+        "id":"608900371465928704"
     }
 }
