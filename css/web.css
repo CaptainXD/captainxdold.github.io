@@ -50,27 +50,32 @@ td:nth-child(1) {
 }
 
 th:nth-child(2), td:nth-child(2) {
-    width: 13%;
+    width: 9%;
     text-align: center;
 }
 
 th:nth-child(3), td:nth-child(3) {
-    width: 9%;
+    width: 8%;
     text-align: center;
 }
 
 th:nth-child(4), td:nth-child(4) {
-    width: 9%;
+    width: 8%;
     text-align: center;
 }
 
 th:nth-child(5), td:nth-child(5) {
-    width: 9%;
+    width: 8%;
     text-align: center;
 }
 
 th:nth-child(6), td:nth-child(6) {
-    width: 10%;
+    width: 8%;
+    text-align: center;
+}
+
+th:nth-child(7), td:nth-child(7) {
+    width: 9%;
     text-align: center;
 }
 
@@ -99,4 +104,8 @@ h1 {
     font-size: 64px;
     color: #cbcbcb;
     text-align: center;
+}
+
+#twitter {
+    z-index: 4;
 }
