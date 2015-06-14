@@ -1,99 +1,19 @@
 html, body {
     margin: 0;
     padding: 0;
-}
-
-table {
-    font-family: Baron, Trebuchet MS, sans-serif;
-    font-size: 18px;
-    border-collapse: collapse;
-    position: absolute;
-    top: 5%;
-    left: 10%;
-    width: 80%;
-    height: 90%;
-}
-
-th {
-    font-size: 30px;
-    text-align: left;
-}
-
-@media screen and (max-width: 480px) {
-    th {
-        font-size: 22px;;
-    }
-}
-
-tr {
-    border-bottom: 1px solid black;
-}
-
-tr:nth-child(1) {
-    border-bottom: 5px solid black;
-}
-
-tr:nth-child(18) {
-    border-bottom: 3px solid crimson;
-}
-
-tr:nth-child(21) {
-    border-bottom: none;
-}
-
-td {
-    padding: 7px 0;
-}
-
-td:nth-child(1) {
-    width: 50%;
-}
-
-th:nth-child(2), td:nth-child(2) {
-    width: 9%;
-    text-align: center;
-}
-
-th:nth-child(3), td:nth-child(3) {
-    width: 8%;
-    text-align: center;
-}
-
-th:nth-child(4), td:nth-child(4) {
-    width: 8%;
-    text-align: center;
-}
-
-th:nth-child(5), td:nth-child(5) {
-    width: 8%;
-    text-align: center;
-}
-
-th:nth-child(6), td:nth-child(6) {
-    width: 8%;
-    text-align: center;
-}
-
-th:nth-child(7), td:nth-child(7) {
-    width: 9%;
-    text-align: center;
+    background: #ebebeb;
 }
 
 #main {
-    position: absolute;
-    z-index: 1;
     width: 100%;
-    height: 800px;
-    background: white;
+    padding: 5% 0;
     box-shadow: 0px 1px 1px #cbcbcb;
+    background: white;
 }
 
 #footer {
-    position: absolute;
-    top: 800px;
     z-index: 0;
-    background: #ebebeb;
-    height: 150px;
+    height: 100px;
     width: 100%;
     margin: 0;
     padding: 0;
@@ -107,5 +27,55 @@ h1 {
 }
 
 #twitter {
-    z-index: 4;
+    opacity: 0;
+    display: none;
+    width: 100%;
+    background: #ebebeb;
 }
+
+#twitter ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#twitter ul li {
+    margin: 5%;
+    width: 90%;
+    background: white;
+    box-shadow: 0px 1px 1px #cbcbcb;
+}
+
+#twitter ul li .user {
+    width: 100%;
+}
+
+#twitter ul li .user a img {
+    margin: 0 auto;
+}
+
+#twitter ul li .tweet {
+    width: 100%;
+}
+
+#twitter ul li .timePosted {
+    width: 100%;
+}
+
+#twitter ul li .interact {
+    width: 100%;
+}
+
+#twitter ul li .media {
+    margin: 0 5% 5% 5%;
+    width: 90%;
+}
+
+#twitter ul li .media img {
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+
+
+table{font-family:Baron,Trebuchet MS,sans-serif;font-size:18px;border-collapse:collapse;height:90%;width:80%;margin:0 auto;}th{font-size:30px;text-align:left}@media screen and (max-width: 480px){th{font-size:22px}}tr{border-bottom:1px solid #000}tr:nth-child(1){border-bottom:5px solid #000}tr:nth-child(18){border-bottom:3px solid #dc143c}tr:nth-child(21){border-bottom:none}td{padding:7px 0}td:nth-child(1){width:50%}th:nth-child(2),td:nth-child(2){width:9%;text-align:center}th:nth-child(3),td:nth-child(3){width:8%;text-align:center}th:nth-child(4),td:nth-child(4){width:8%;text-align:center}th:nth-child(5),td:nth-child(5){width:8%;text-align:center}th:nth-child(6),td:nth-child(6){width:8%;text-align:center}th:nth-child(7),td:nth-child(7){width:9%;text-align:center}td a {color: black;text-decoration: none;}
