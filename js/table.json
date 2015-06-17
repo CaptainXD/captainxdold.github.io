@@ -37,10 +37,10 @@
     },
     "DC": {
         "Club":"district of columbia",
-        "GP":16,
+        "GP":17,
         "W":8,
         "D":4,
-        "GD":5,
+        "GD":4,
         "twitter":"dcunited",
         "id":"608901679317024768"
     },
@@ -109,10 +109,10 @@
     },
     "ORL": {
         "Club":"orlando",
-        "GP":14,
-        "W":4,
+        "GP":15,
+        "W":5,
         "D":5,
-        "GD":0,
+        "GD":1,
         "twitter":"OrlandoCitySC",
         "id":"608901160137662465"
     },
