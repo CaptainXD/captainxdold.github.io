@@ -19,18 +19,18 @@
     },
     "COL": {
         "Club":"colorado",
-        "GP":14,
+        "GP":15,
         "W":2,
-        "D":8,
+        "D":9,
         "GD":-1,
         "twitter":"ColoradoRapids",
         "id":"608901883869036544"
     },
     "DAL": {
         "Club":"dallas",
-        "GP":15,
+        "GP":16,
         "W":6,
-        "D":4,
+        "D":5,
         "GD":-4,
         "twitter":"FCDallas",
         "id":"608901792299008000"
