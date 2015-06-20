@@ -154,19 +154,19 @@
     },
     "SEA": {
         "Club":"seattle",
-        "GP":15,
+        "GP":16,
         "W":9,
         "D":2,
-        "GD":12,
+        "GD":10,
         "twitter":"SoundersFC",
         "id":"608900677100707840"
     },
     "SJ": {
         "Club":"san jose",
-        "GP":14,
-        "W":5,
+        "GP":15,
+        "W":6,
         "D":4,
-        "GD":-1,
+        "GD":1,
         "twitter":"SJEarthquakes",
         "id":"608900581940314115"
     },
