@@ -64,10 +64,10 @@
     },
     "LA": {
         "Club":"los angeles",
-        "GP":17,
-        "W":5,
+        "GP":18,
+        "W":6,
         "D":7,
-        "GD":-3,
+        "GD":1,
         "twitter":"LAGalaxy",
         "id":"608901519392382976"
     },
@@ -127,10 +127,10 @@
     },
     "PHI": {
         "Club":"philiadelphia",
-        "GP":16,
+        "GP":17,
         "W":4,
         "D":3,
-        "GD":-7,
+        "GD":-11,
         "twitter":"PhilaUnion",
         "id":"608901009067286529"
     },
