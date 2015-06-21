@@ -73,10 +73,10 @@
     },
     "MTL": {
         "Club":"montreal",
-        "GP":12,
-        "W":4,
+        "GP":13,
+        "W":5,
         "D":2,
-        "GD":-4,
+        "GD":-2,
         "twitter":"impactmontreal",
         "id":"608901455026651136"
     },
@@ -91,28 +91,28 @@
     },
     "NY": {
         "Club":"new york",
-        "GP":13,
+        "GP":14,
         "W":4,
         "D":5,
-        "GD":0,
+        "GD":-1,
         "twitter":"NewYorkRedBulls",
         "id":"608901359622971392"
     },
     "NYC": {
         "Club":"new york city",
-        "GP":15,
-        "W":3,
+        "GP":16,
+        "W":4,
         "D":5,
-        "GD":-4,
+        "GD":-2,
         "twitter":"NYCFC",
         "id":"608901315125628928"
     },
     "ORL": {
         "Club":"orlando",
-        "GP":15,
+        "GP":16,
         "W":5,
         "D":5,
-        "GD":1,
+        "GD":-1,
         "twitter":"OrlandoCitySC",
         "id":"608901160137662465"
     },
@@ -145,10 +145,10 @@
     },
     "TOR": {
         "Club":"toronto",
-        "GP":12,
+        "GP":13,
         "W":6,
         "D":1,
-        "GD":3,
+        "GD":1,
         "twitter":"torontofc",
         "id":"608900798857084928"
     },
@@ -172,10 +172,10 @@
     },
     "VAN": {
         "Club":"vancouver",
-        "GP":16,
-        "W":8,
+        "GP":17,
+        "W":9,
         "D":2,
-        "GD":3,
+        "GD":4,
         "twitter":"WhitecapsFC",
         "id":"608900371465928704"
     }
