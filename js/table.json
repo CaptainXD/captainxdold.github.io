@@ -37,10 +37,10 @@
     },
     "DC": {
         "Club":"district of columbia",
-        "GP":17,
-        "W":8,
+        "GP":18,
+        "W":9,
         "D":4,
-        "GD":4,
+        "GD":5,
         "twitter":"dcunited",
         "id":"608901679317024768"
     },
@@ -55,10 +55,10 @@
     },
     "KC": {
         "Club":"kansas city",
-        "GP":14,
+        "GP":15,
         "W":6,
         "D":6,
-        "GD":7,
+        "GD":6,
         "twitter":"SportingKC",
         "id":"608901560559468544"
     },
@@ -82,10 +82,10 @@
     },
     "NE": {
         "Club":"new england",
-        "GP":16,
+        "GP":17,
         "W":6,
         "D":6,
-        "GD":2,
+        "GD":1,
         "twitter":"NERevolution",
         "id":"608901416363524096"
     },
@@ -136,10 +136,10 @@
     },
     "RSL": {
         "Club":"salt lake",
-        "GP":15,
-        "W":4,
+        "GP":16,
+        "W":5,
         "D":6,
-        "GD":-5,
+        "GD":-4,
         "twitter":"RealSaltLake",
         "id":"608900863902425088"
     },
