@@ -46,10 +46,10 @@
     },
     "HOU": {
         "Club":"houston",
-        "GP":15,
+        "GP":16,
         "W":5,
         "D":5,
-        "GD":2,
+        "GD":0,
         "twitter":"HoustonDynamo",
         "id":"608901603706306560"
     },
@@ -118,10 +118,10 @@
     },
     "PDX": {
         "Club":"portland",
-        "GP":15,
-        "W":6,
+        "GP":16,
+        "W":7,
         "D":4,
-        "GD":1,
+        "GD":3,
         "twitter":"TimbersFC",
         "id":"608901048116215809"
     },
@@ -143,15 +143,6 @@
         "twitter":"RealSaltLake",
         "id":"608900863902425088"
     },
-    "TOR": {
-        "Club":"toronto",
-        "GP":13,
-        "W":6,
-        "D":1,
-        "GD":1,
-        "twitter":"torontofc",
-        "id":"608900798857084928"
-    },
     "SEA": {
         "Club":"seattle",
         "GP":16,
@@ -169,6 +160,15 @@
         "GD":1,
         "twitter":"SJEarthquakes",
         "id":"608900581940314115"
+    },
+    "TOR": {
+        "Club":"toronto",
+        "GP":13,
+        "W":6,
+        "D":1,
+        "GD":1,
+        "twitter":"torontofc",
+        "id":"608900798857084928"
     },
     "VAN": {
         "Club":"vancouver",
