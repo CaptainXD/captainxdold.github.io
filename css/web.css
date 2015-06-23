@@ -11,8 +11,6 @@ html, body {
     background: white;
 }
 
-
-
 #footer {
     z-index: 0;
     height: 100px;
@@ -28,11 +26,46 @@ h1 {
     text-align: center;
 }
 
-#twitter {
-    opacity: 0;
+#navbar {
+    position: fixed;
+    top: 0;
+    left: 100%;
     display: none;
+    height: 50px;
+    width: 100%;
+    background: white;
+    box-shadow: 0px 1px 1px #cbcbcb;
+}
+
+#navbar img {
+    float: left;
+    height: 32px;
+    padding: 9px 0 0 6px;
+}
+
+#navbar h2 {
+    width: 100%;
+    font-family: Baron;
+    font-size: 24px;
+    margin-top: 0;
+    padding-top: 14px;
+    margin-left: -30px;
+    text-align: center;
+}
+
+#navbar h2 a {
+    text-decoration: none;
+    color: black;
+}
+
+#twitter {
+    display: none;
+    position: absolute;
+    top: 50px;
+    left: 100%;
     width: 100%;
     background: #ebebeb;
+    z-index: 1;
 }
 
 #twitter ul {
@@ -40,9 +73,9 @@ h1 {
     padding: 0;
     margin: 0;
 }
-
+    
 #twitter ul li {
-    margin: 5%;
+    margin: 25px 5%;
     width: 90%;
     background: white;
     box-shadow: 0px 1px 1px #cbcbcb;
@@ -50,38 +83,59 @@ h1 {
 
 #twitter ul li .user {
     width: 100%;
+    border-bottom: 1px solid #ebebeb;
+    padding: 5px 0;
 }
 
 #twitter ul li .user a {
+    text-align: center;
     display: block;
 }
 
 #twitter ul li .user a img {
+    display: inline-block;
     margin: 0 auto;
+    height: 40px;
+    text-align: center;
+    padding-left: 50px;
+}
+
+#twitter ul li .user a p {
+    font-family: Open Sans;
+    color: #ababab;
+    width: 40px;
+    font-size: 12px;
+    display: inline-block;
+    float: right;
 }
 
 #twitter ul li .tweet {
-    width: 100%;
+    font-family: Open Sans;
+    font-size: 16px;
+    width: 90%;
+    margin: 5% 5% 0 5%;
+    padding-bottom: 5%;
+}
+
+#twitter ul li .tweet img {
+    height: 0.9em;
+    padding: 0 0.1em
 }
 
 #twitter ul li .timePosted {
-    width: 100%;
-}
-
-#twitter ul li .interact {
-    width: 100%;
-}
-
-#twitter ul li .media {
-    margin: 0 5% 5% 5%;
-    width: 90%;
+    display: none;
 }
 
 #twitter ul li .media img {
     width: 100%;
-    margin-bottom: 5%;
 }
 
 
-
 table{font-family:Baron,Trebuchet MS,sans-serif;font-size:18px;border-collapse:collapse;height:90%;width:80%;margin:0 auto;}th{font-size:30px;text-align:left}@media screen and (max-width: 480px){#main{padding:32px 0;}th{font-size:22px}}tr{border-bottom:1px solid #000}tr:nth-child(1){border-bottom:5px solid #000}tr:nth-child(18){border-bottom:3px solid #dc143c}tr:nth-child(21){border-bottom:none}td{padding:7px 0}td:nth-child(1){width:50%}th:nth-child(2),td:nth-child(2){width:9%;text-align:center}th:nth-child(3),td:nth-child(3){width:8%;text-align:center}th:nth-child(4),td:nth-child(4){width:8%;text-align:center}th:nth-child(5),td:nth-child(5){width:8%;text-align:center}th:nth-child(6),td:nth-child(6){width:8%;text-align:center}th:nth-child(7),td:nth-child(7){width:9%;text-align:center}td a {color: black;text-decoration: none;}
+
+@media screen and (min-width: 700px) {
+    #twitter ul li {
+        width: 630px;
+        margin: 25px auto;
+    }
+}
