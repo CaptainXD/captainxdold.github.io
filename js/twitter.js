@@ -41,6 +41,7 @@ function twitterClickHandler() {
     });
     $("#navbar img").click(function() {
         if(open) {
+            open = false;
             $("html").css("overflow-x", "hidden");
             $("#twitter").css("position", "absolute");
             $("#main").css("display", "block");
@@ -51,7 +52,7 @@ function twitterClickHandler() {
                 $("html").css("overflow-x", "auto");
                 $("#twitter, #navbar").css("display", "none");
             });
-            open = false;
+            window.scrollTo(0, 0);
         }
     });
 }
