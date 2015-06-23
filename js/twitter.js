@@ -51,6 +51,7 @@ function twitterClickHandler() {
                 $("html").css("overflow-x", "auto");
                 $("#twitter, #navbar").css("display", "none");
             });
+            open = false;
         }
     });
 }
