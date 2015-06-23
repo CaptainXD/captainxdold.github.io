@@ -47,7 +47,7 @@ function sort() {
         widgetId[key] = info[key].id;
         $("table").append(
             '<tr>' +
-                '<td id="' + key +'" class="club"><a href="#">' + info[key].Club + '</a></td>' +
+                '<td id="' + key +'" class="club"><a href="javascript:void(0)">' + info[key].Club + '</a></td>' +
                 '<td>' + gamesPlayed[key] + '</td>' +
                 '<td>' + wins[key] + '</td>' +
                 '<td>' + draws[key] + '</td>' +
