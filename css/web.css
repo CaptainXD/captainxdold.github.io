@@ -115,6 +115,7 @@ h1 {
     width: 90%;
     margin: 5% 5% 0 5%;
     padding-bottom: 5%;
+    word-wrap: break-word;
 }
 
 #twitter ul li .tweet img {
