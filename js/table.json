@@ -64,10 +64,10 @@
     },
     "LA": {
         "Club":"los angeles",
-        "GP":18,
-        "W":6,
+        "GP":19,
+        "W":7,
         "D":7,
-        "GD":1,
+        "GD":6,
         "twitter":"LAGalaxy",
         "id":"608901519392382976"
     },
@@ -118,10 +118,10 @@
     },
     "PDX": {
         "Club":"portland",
-        "GP":16,
+        "GP":17,
         "W":7,
         "D":4,
-        "GD":3,
+        "GD":-2,
         "twitter":"TimbersFC",
         "id":"608901048116215809"
     },
