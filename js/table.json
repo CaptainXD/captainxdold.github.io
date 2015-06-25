@@ -127,10 +127,10 @@
     },
     "PHI": {
         "Club":"philiadelphia",
-        "GP":17,
-        "W":4,
+        "GP":18,
+        "W":5,
         "D":3,
-        "GD":-11,
+        "GD":-10,
         "twitter":"PhilaUnion",
         "id":"608901009067286529"
     },
@@ -145,10 +145,10 @@
     },
     "SEA": {
         "Club":"seattle",
-        "GP":16,
+        "GP":17,
         "W":9,
         "D":2,
-        "GD":10,
+        "GD":9,
         "twitter":"SoundersFC",
         "id":"608900677100707840"
     },
