@@ -19,46 +19,46 @@
     },
     "COL": {
         "Club":"colorado",
-        "GP":16,
+        "GP":17,
         "W":2,
         "D":9,
-        "GD":-3,
+        "GD":-5,
         "twitter":"ColoradoRapids",
         "id":"608901883869036544"
     },
     "DAL": {
         "Club":"dallas",
-        "GP":16,
-        "W":6,
+        "GP":17,
+        "W":7,
         "D":5,
-        "GD":-4,
+        "GD":-2,
         "twitter":"FCDallas",
         "id":"608901792299008000"
     },
     "DC": {
         "Club":"district of columbia",
-        "GP":19,
+        "GP":20,
         "W":10,
-        "D":4,
+        "D":5,
         "GD":6,
         "twitter":"dcunited",
         "id":"608901679317024768"
     },
     "HOU": {
         "Club":"houston",
-        "GP":16,
+        "GP":17,
         "W":5,
         "D":5,
-        "GD":0,
+        "GD":-2,
         "twitter":"HoustonDynamo",
         "id":"608901603706306560"
     },
     "KC": {
         "Club":"kansas city",
-        "GP":15,
-        "W":6,
+        "GP":16,
+        "W":7,
         "D":6,
-        "GD":6,
+        "GD":8,
         "twitter":"SportingKC",
         "id":"608901560559468544"
     },
@@ -73,19 +73,19 @@
     },
     "MTL": {
         "Club":"montreal",
-        "GP":14,
+        "GP":15,
         "W":5,
-        "D":2,
+        "D":3,
         "GD":-4,
         "twitter":"impactmontreal",
         "id":"608901455026651136"
     },
     "NE": {
         "Club":"new england",
-        "GP":18,
+        "GP":19,
         "W":6,
         "D":6,
-        "GD":0,
+        "GD":-1,
         "twitter":"NERevolution",
         "id":"608901416363524096"
     },
@@ -127,9 +127,9 @@
     },
     "PHI": {
         "Club":"philiadelphia",
-        "GP":18,
+        "GP":19,
         "W":5,
-        "D":3,
+        "D":4,
         "GD":-10,
         "twitter":"PhilaUnion",
         "id":"608901009067286529"
@@ -163,19 +163,19 @@
     },
     "TOR": {
         "Club":"toronto",
-        "GP":14,
+        "GP":15,
         "W":7,
-        "D":1,
+        "D":2,
         "GD":3,
         "twitter":"torontofc",
         "id":"608900798857084928"
     },
     "VAN": {
         "Club":"vancouver",
-        "GP":17,
-        "W":9,
+        "GP":18,
+        "W":10,
         "D":2,
-        "GD":4,
+        "GD":5,
         "twitter":"WhitecapsFC",
         "id":"608900371465928704"
     }
