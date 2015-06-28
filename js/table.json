@@ -64,10 +64,10 @@
     },
     "LA": {
         "Club":"los angeles",
-        "GP":19,
+        "GP":20,
         "W":7,
         "D":7,
-        "GD":6,
+        "GD":4,
         "twitter":"LAGalaxy",
         "id":"608901519392382976"
     },
@@ -154,10 +154,10 @@
     },
     "SJ": {
         "Club":"san jose",
-        "GP":15,
-        "W":6,
+        "GP":16,
+        "W":7,
         "D":4,
-        "GD":1,
+        "GD":3,
         "twitter":"SJEarthquakes",
         "id":"608900581940314115"
     },
