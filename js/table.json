@@ -37,10 +37,10 @@
     },
     "DC": {
         "Club":"district of columbia",
-        "GP":25,
+        "GP":26,
         "W":13,
         "D":5,
-        "GD":8,
+        "GD":6,
         "twitter":"dcunited",
         "id":"608901679317024768"
     },
@@ -100,10 +100,10 @@
     },
     "NYC": {
         "Club":"new york city",
-        "GP":23,
-        "W":6,
+        "GP":24,
+        "W":7,
         "D":6,
-        "GD":-5,
+        "GD":-3,
         "twitter":"NYCFC",
         "id":"608901315125628928"
     },
