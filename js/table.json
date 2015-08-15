@@ -19,10 +19,10 @@
     },
     "COL": {
         "Club":"colorado",
-        "GP":22,
+        "GP":23,
         "W":5,
         "D":9,
-        "GD":-4,
+        "GD":-5,
         "twitter":"ColoradoRapids",
         "id":"608901883869036544"
     },
@@ -154,10 +154,10 @@
     },
     "SJ": {
         "Club":"san jose",
-        "GP":22,
-        "W":7,
+        "GP":23,
+        "W":8,
         "D":5,
-        "GD":-6,
+        "GD":-5,
         "twitter":"SJEarthquakes",
         "id":"608900581940314115"
     },
