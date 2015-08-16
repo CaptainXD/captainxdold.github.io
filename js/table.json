@@ -46,10 +46,10 @@
     },
     "HOU": {
         "Club":"houston",
-        "GP":23,
+        "GP":24,
         "W":8,
         "D":7,
-        "GD":2,
+        "GD":0,
         "twitter":"HoustonDynamo",
         "id":"608901603706306560"
     },
@@ -82,10 +82,10 @@
     },
     "NE": {
         "Club":"new england",
-        "GP":24,
-        "W":8,
+        "GP":25,
+        "W":9,
         "D":7,
-        "GD":-4,
+        "GD":-2,
         "twitter":"NERevolution",
         "id":"608901416363524096"
     },
@@ -118,10 +118,10 @@
     },
     "PDX": {
         "Club":"portland",
-        "GP":24,
-        "W":10,
+        "GP":25,
+        "W":11,
         "D":6,
-        "GD":-3,
+        "GD":-2,
         "twitter":"TimbersFC",
         "id":"608901048116215809"
     },
@@ -136,10 +136,10 @@
     },
     "RSL": {
         "Club":"salt lake",
-        "GP":24,
+        "GP":25,
         "W":7,
         "D":8,
-        "GD":-10,
+        "GD":-11,
         "twitter":"RealSaltLake",
         "id":"608900863902425088"
     },
