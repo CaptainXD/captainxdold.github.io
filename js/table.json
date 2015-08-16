@@ -109,10 +109,10 @@
     },
     "ORL": {
         "Club":"orlando",
-        "GP":24,
+        "GP":25,
         "W":7,
         "D":7,
-        "GD":-5,
+        "GD":-9,
         "twitter":"OrlandoCitySC",
         "id":"608901160137662465"
     },
@@ -145,10 +145,10 @@
     },
     "SEA": {
         "Club":"seattle",
-        "GP":24,
-        "W":10,
+        "GP":25,
+        "W":11,
         "D":2,
-        "GD":-1,
+        "GD":3,
         "twitter":"SoundersFC",
         "id":"608900677100707840"
     },
