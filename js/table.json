@@ -1,9 +1,9 @@
 {
     "CHI": {
         "Club":"chicago",
-        "GP":22,
+        "GP":23,
         "W":6,
-        "D":4,
+        "D":5,
         "GD":-7,
         "twitter":"ChicagoFire",
         "id":"608902021941317632"
@@ -127,9 +127,9 @@
     },
     "PHI": {
         "Club":"philiadelphia",
-        "GP":24,
+        "GP":25,
         "W":6,
-        "D":5,
+        "D":6,
         "GD":-11,
         "twitter":"PhilaUnion",
         "id":"608901009067286529"
