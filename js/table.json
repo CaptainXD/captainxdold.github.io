@@ -10,9 +10,9 @@
     },
     "CLB": {
         "Club":"columbus",
-        "GP":24,
+        "GP":25,
         "W":9,
-        "D":7,
+        "D":8,
         "GD":-1,
         "twitter":"ColumbusCrewSC",
         "id":"608901959991451648"
@@ -100,9 +100,9 @@
     },
     "NYC": {
         "Club":"new york city",
-        "GP":24,
+        "GP":25,
         "W":7,
-        "D":6,
+        "D":7,
         "GD":-3,
         "twitter":"NYCFC",
         "id":"608901315125628928"
