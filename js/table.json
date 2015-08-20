@@ -55,10 +55,10 @@
     },
     "KC": {
         "Club":"kansas city",
-        "GP":22,
+        "GP":23,
         "W":11,
         "D":7,
-        "GD":12,
+        "GD":7,
         "twitter":"SportingKC",
         "id":"608901560559468544"
     },
@@ -154,10 +154,10 @@
     },
     "SJ": {
         "Club":"san jose",
-        "GP":23,
-        "W":8,
+        "GP":24,
+        "W":9,
         "D":5,
-        "GD":-5,
+        "GD":0,
         "twitter":"SJEarthquakes",
         "id":"608900581940314115"
     },
