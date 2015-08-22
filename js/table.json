@@ -46,9 +46,9 @@
     },
     "HOU": {
         "Club":"houston",
-        "GP":24,
+        "GP":25,
         "W":8,
-        "D":7,
+        "D":8,
         "GD":0,
         "twitter":"HoustonDynamo",
         "id":"608901603706306560"
@@ -118,9 +118,9 @@
     },
     "PDX": {
         "Club":"portland",
-        "GP":25,
+        "GP":26,
         "W":11,
-        "D":6,
+        "D":7,
         "GD":-2,
         "twitter":"TimbersFC",
         "id":"608901048116215809"
