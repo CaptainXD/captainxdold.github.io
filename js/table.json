@@ -109,10 +109,10 @@
     },
     "ORL": {
         "Club":"orlando",
-        "GP":25,
+        "GP":26,
         "W":7,
         "D":7,
-        "GD":-9,
+        "GD":-14,
         "twitter":"OrlandoCitySC",
         "id":"608901160137662465"
     },
@@ -163,10 +163,10 @@
     },
     "TOR": {
         "Club":"toronto",
-        "GP":23,
-        "W":9,
+        "GP":24,
+        "W":10,
         "D":4,
-        "GD":-4,
+        "GD":1,
         "twitter":"torontofc",
         "id":"608900798857084928"
     },
