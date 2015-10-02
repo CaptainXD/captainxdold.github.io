@@ -83,12 +83,16 @@ function sort(by) {
                 if(a < b) return -1;
                 if(a > b) return 1;
                 if(a === b && (typeof by === "undefined" || by === "points")) {
-                    if(differential[k0] < differential[k1]) return -1;
-                    if(differential[k1] < differential[k0]) return 1;
-                    if(differential[k0] === differential[k1]) {
-                        if(k0 > k1) return -1;
-                        if(k0 < k1) return 1;
-                        else return 0;
+                    if(wins[k0] < wins[k1]) return -1;
+                    if(wins[k1] < wins[k0]) return 1;
+                    if(wins[k0] === wins[k1]) {
+                        if(differential[k0] < differential[k1]) return -1;
+                        if(differential[k1] < differential[k0]) return 1;
+                        if(differential[k0] === differential[k1]) {
+                            if(k0 > k1) return -1;
+                            if(k0 < k1) return 1;
+                            else return 0;
+                    }
                     }
                 } else {
                     if(k0 > k1) return -1;
