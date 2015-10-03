@@ -123,6 +123,6 @@ function sort(by) {
         );
     }
     var n = document.createTextNode(' ');
-    $('#myElement').append(n);
+    $('#standings').append(n);
     setTimeout(function(){n.parentNode.removeChild(n)}, 0);
 }
