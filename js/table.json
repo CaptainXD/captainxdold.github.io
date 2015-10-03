@@ -127,10 +127,10 @@
     },
     "PHI": {
         "Club":"philiadelphia",
-        "GP":31,
+        "GP":32,
         "W":9,
         "D":7,
-        "GD":-9,
+        "GD":-11,
         "twitter":"PhilaUnion",
         "id":"608901009067286529"
     },
@@ -163,10 +163,10 @@
     },
     "TOR": {
         "Club":"toronto",
-        "GP":30,
-        "W":13,
+        "GP":31,
+        "W":14,
         "D":4,
-        "GD":0,
+        "GD":2,
         "twitter":"torontofc",
         "id":"608900798857084928"
     },
