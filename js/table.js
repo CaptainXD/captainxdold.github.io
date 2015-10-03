@@ -122,5 +122,7 @@ function sort(by) {
             '</tr>'
         );
     }
-    document.getElementById('myElement').style.webkitTransform = 'scale(1)';
+    var n = document.createTextNode(' ');
+    $('#myElement').append(n);
+    setTimeout(function(){n.parentNode.removeChild(n)}, 0);
 }
