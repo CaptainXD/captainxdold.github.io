@@ -121,8 +121,8 @@ function sort(by) {
                 '<td>' + points[key] + '</td>' +
             '</tr>'
         );
-        $('#standings').hide();
-        $('#standings').get(0).offsetHeight;
-        $('#standings').show();
     }
+    $('#standings').hide();
+    $('#standings').get(0).offsetHeight;
+    $('#standings').show();
 }
