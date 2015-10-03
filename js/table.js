@@ -122,7 +122,5 @@ function sort(by) {
             '</tr>'
         );
     }
-    $('#standings').hide();
-    $('#standings').get(0).offsetHeight;
-    $('#standings').show();
+    document.getElementById('myElement').style.webkitTransform = 'scale(1)';
 }
