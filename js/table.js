@@ -104,13 +104,13 @@ function sort(by) {
             }
         }
     });
-    $("table").html(th);
+    $("#standings").html(th);
     for (var i = 0; i < keys.length; ++i) {
         var key = keys[i];
         var value = points[key];
         twitterUsername[key] = info[key].twitter;
         widgetId[key] = info[key].id;
-        $("table").append(
+        $("#standings").append(
             '<tr>' +
                 '<td id="' + key +'" class="club"><a href="javascript:void(0)">' + info[key].Club + '</a></td>' +
                 '<td>' + gamesPlayed[key] + '</td>' +
