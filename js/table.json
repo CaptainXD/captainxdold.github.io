@@ -55,10 +55,10 @@
     },
     "KC": {
         "Club":"kansas city",
-        "GP":30,
-        "W":12,
+        "GP":31,
+        "W":13,
         "D":9,
-        "GD":4,
+        "GD":5,
         "twitter":"SportingKC",
         "id":"608901560559468544"
     },
@@ -118,10 +118,10 @@
     },
     "PDX": {
         "Club":"portland",
-        "GP":30,
+        "GP":31,
         "W":12,
         "D":8,
-        "GD":-4,
+        "GD":-5,
         "twitter":"TimbersFC",
         "id":"608901048116215809"
     },
@@ -154,9 +154,9 @@
     },
     "SJ": {
         "Club":"san jose",
-        "GP":31,
+        "GP":32,
         "W":12,
-        "D":7,
+        "D":8,
         "GD":2,
         "twitter":"SJEarthquakes",
         "id":"608900581940314115"
@@ -172,9 +172,9 @@
     },
     "VAN": {
         "Club":"vancouver",
-        "GP":30,
+        "GP":31,
         "W":15,
-        "D":3,
+        "D":4,
         "GD":8,
         "twitter":"WhitecapsFC",
         "id":"608900371465928704"
