@@ -1,19 +1,19 @@
 {
     "CHI": {
         "Club":"chicago",
-        "GP":31,
-        "W":7,
+        "GP":32,
+        "W":8,
         "D":6,
-        "GD":-12,
+        "GD":-10,
         "twitter":"ChicagoFire",
         "id":"608902021941317632"
     },
     "CLB": {
         "Club":"columbus",
-        "GP":31,
+        "GP":32,
         "W":13,
         "D":8,
-        "GD":-1,
+        "GD":-2,
         "twitter":"ColumbusCrewSC",
         "id":"608901959991451648"
     },
@@ -73,28 +73,28 @@
     },
     "MTL": {
         "Club":"montreal",
-        "GP":29,
+        "GP":30,
         "W":12,
         "D":6,
-        "GD":3,
+        "GD":2,
         "twitter":"impactmontreal",
         "id":"608901455026651136"
     },
     "NE": {
         "Club":"new england",
-        "GP":31,
+        "GP":32,
         "W":13,
         "D":8,
-        "GD":2,
+        "GD":0,
         "twitter":"NERevolution",
         "id":"608901416363524096"
     },
     "NY": {
         "Club":"new york",
-        "GP":29,
-        "W":14,
+        "GP":30,
+        "W":15,
         "D":6,
-        "GD":14,
+        "GD":15,
         "twitter":"NewYorkRedBulls",
         "id":"608901359622971392"
     },
@@ -109,10 +109,10 @@
     },
     "ORL": {
         "Club":"orlando",
-        "GP":31,
-        "W":10,
+        "GP":32,
+        "W":11,
         "D":8,
-        "GD":-11,
+        "GD":-10,
         "twitter":"OrlandoCitySC",
         "id":"608901160137662465"
     },
