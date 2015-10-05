@@ -11,7 +11,7 @@ var twitterUsername = [];
 var widgetId = [];
 var th = `<tr>
             <th id="cities"><a href="javascript:void(0)">Club</a></th>
-            <th id="gamesPlayed"><a href="javascript:void(0)">GP</a></th>
+            <th id="gamesPlayed"><a href="javascript:void(0)">G</a></th>
             <th id="wins"><a href="javascript:void(0)">W</a></th>
             <th id="draws"><a href="javascript:void(0)">D</a></th>
             <th id="losses"><a href="javascript:void(0)">L</a></th>
