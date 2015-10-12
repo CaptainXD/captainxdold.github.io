@@ -28,9 +28,9 @@
     },
     "DAL": {
         "Club":"dallas",
-        "GP":30,
+        "GP":31,
         "W":15,
-        "D":5,
+        "D":6,
         "GD":9,
         "twitter":"FCDallas",
         "id":"608901792299008000"
@@ -73,10 +73,10 @@
     },
     "MTL": {
         "Club":"montreal",
-        "GP":30,
+        "GP":31,
         "W":12,
         "D":6,
-        "GD":2,
+        "GD":1,
         "twitter":"impactmontreal",
         "id":"608901455026651136"
     },
@@ -91,10 +91,10 @@
     },
     "NY": {
         "Club":"new york",
-        "GP":30,
-        "W":15,
+        "GP":31,
+        "W":16,
         "D":6,
-        "GD":15,
+        "GD":16,
         "twitter":"NewYorkRedBulls",
         "id":"608901359622971392"
     },
@@ -172,9 +172,9 @@
     },
     "VAN": {
         "Club":"vancouver",
-        "GP":31,
+        "GP":32,
         "W":15,
-        "D":4,
+        "D":5,
         "GD":8,
         "twitter":"WhitecapsFC",
         "id":"608900371465928704"
