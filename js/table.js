@@ -19,6 +19,8 @@ var th = `<tr>
             <th id="points"><a href="javascript:void(0)">P</a></th>
         </tr>`;
 
+var standings;
+
 var choices = [];
 
 function sort(by) {
@@ -104,25 +106,23 @@ function sort(by) {
             }
         }
     });
-    $("#standings").html(th);
+    standings = th;
     for (var i = 0; i < keys.length; ++i) {
         var key = keys[i];
         var value = points[key];
         twitterUsername[key] = info[key].twitter;
         widgetId[key] = info[key].id;
-        $("#standings").append(
-            '<tr>' +
-                '<td id="' + key +'" class="club"><a href="javascript:void(0)">' + info[key].Club + '</a></td>' +
-                '<td>' + gamesPlayed[key] + '</td>' +
-                '<td>' + wins[key] + '</td>' +
-                '<td>' + draws[key] + '</td>' +
-                '<td>' + losses[key] + '</td>' +
-                '<td>' + differential[key] + '</td>' +
-                '<td>' + points[key] + '</td>' +
-            '</tr>'
-        );
+        standings += '<tr>' +
+                    '<td id="' + key +'" class="club"><a href="javascript:void(0)">' + 
+                    info[key].Club + 
+                    '</a></td>' +
+                    '<td>' + gamesPlayed[key] + '</td>' +
+                    '<td>' + wins[key] + '</td>' +
+                    '<td>' + draws[key] + '</td>' +
+                    '<td>' + losses[key] + '</td>' +
+                    '<td>' + differential[key] + '</td>' +
+                    '<td>' + points[key] + '</td>' +
+                    '</tr>'
     }
-    var n = document.createTextNode(' ');
-    $('#standings').append(n);
-    setTimeout(function(){n.parentNode.removeChild(n)}, 0);
+    $("#standings").html(standings);
 }
