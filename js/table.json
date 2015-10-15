@@ -28,10 +28,10 @@
     },
     "DAL": {
         "Club":"dallas",
-        "GP":31,
-        "W":15,
+        "GP":32,
+        "W":16,
         "D":6,
-        "GD":9,
+        "GD":11,
         "twitter":"FCDallas",
         "id":"608901792299008000"
     },
@@ -91,10 +91,10 @@
     },
     "NY": {
         "Club":"new york",
-        "GP":31,
+        "GP":32,
         "W":16,
         "D":6,
-        "GD":16,
+        "GD":15,
         "twitter":"NewYorkRedBulls",
         "id":"608901359622971392"
     },
@@ -118,10 +118,10 @@
     },
     "PDX": {
         "Club":"portland",
-        "GP":31,
-        "W":12,
+        "GP":32,
+        "W":13,
         "D":8,
-        "GD":-5,
+        "GD":-4,
         "twitter":"TimbersFC",
         "id":"608901048116215809"
     },
@@ -136,10 +136,10 @@
     },
     "RSL": {
         "Club":"salt lake",
-        "GP":31,
+        "GP":32,
         "W":11,
         "D":8,
-        "GD":-6,
+        "GD":-7,
         "twitter":"RealSaltLake",
         "id":"608900863902425088"
     },
@@ -163,19 +163,19 @@
     },
     "TOR": {
         "Club":"toronto",
-        "GP":31,
-        "W":14,
+        "GP":32,
+        "W":15,
         "D":4,
-        "GD":2,
+        "GD":3,
         "twitter":"torontofc",
         "id":"608900798857084928"
     },
     "VAN": {
         "Club":"vancouver",
-        "GP":32,
+        "GP":33,
         "W":15,
         "D":5,
-        "GD":8,
+        "GD":6,
         "twitter":"WhitecapsFC",
         "id":"608900371465928704"
     }
