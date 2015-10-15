@@ -107,7 +107,7 @@ function sort(by) {
         }
     });
     standings = th;
-    for (var i = 0; i < keys.length; ++i) {
+    for(var i = 0; i < keys.length; ++i) {
         var key = keys[i];
         var value = points[key];
         twitterUsername[key] = info[key].twitter;
@@ -123,6 +123,8 @@ function sort(by) {
                     '<td>' + differential[key] + '</td>' +
                     '<td>' + points[key] + '</td>' +
                     '</tr>'
+        if(i+1 === keys.length) {
+                $("#standings").html(standings);
+        }
     }
-    $("#standings").html(standings);
 }
