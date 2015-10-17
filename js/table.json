@@ -19,10 +19,10 @@
     },
     "COL": {
         "Club":"colorado",
-        "GP":31,
+        "GP":32,
         "W":8,
         "D":10,
-        "GD":-8,
+        "GD":-9,
         "twitter":"ColoradoRapids",
         "id":"608901883869036544"
     },
@@ -73,10 +73,10 @@
     },
     "MTL": {
         "Club":"montreal",
-        "GP":31,
-        "W":12,
+        "GP":32,
+        "W":13,
         "D":6,
-        "GD":1,
+        "GD":2,
         "twitter":"impactmontreal",
         "id":"608901455026651136"
     },
