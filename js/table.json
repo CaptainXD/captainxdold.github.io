@@ -55,10 +55,10 @@
     },
     "KC": {
         "Club":"kansas city",
-        "GP":31,
+        "GP":32,
         "W":13,
         "D":9,
-        "GD":5,
+        "GD":4,
         "twitter":"SportingKC",
         "id":"608901560559468544"
     },
@@ -100,19 +100,19 @@
     },
     "NYC": {
         "Club":"new york city",
-        "GP":32,
+        "GP":33,
         "W":10,
         "D":7,
-        "GD":-6,
+        "GD":-7,
         "twitter":"NYCFC",
         "id":"608901315125628928"
     },
     "ORL": {
         "Club":"orlando",
-        "GP":32,
-        "W":11,
+        "GP":33,
+        "W":12,
         "D":8,
-        "GD":-10,
+        "GD":-9,
         "twitter":"OrlandoCitySC",
         "id":"608901160137662465"
     },
@@ -154,10 +154,10 @@
     },
     "SJ": {
         "Club":"san jose",
-        "GP":32,
-        "W":12,
+        "GP":33,
+        "W":13,
         "D":8,
-        "GD":2,
+        "GD":3,
         "twitter":"SJEarthquakes",
         "id":"608900581940314115"
     },
