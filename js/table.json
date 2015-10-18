@@ -10,10 +10,10 @@
     },
     "CLB": {
         "Club":"columbus",
-        "GP":32,
-        "W":13,
+        "GP":33,
+        "W":14,
         "D":8,
-        "GD":-2,
+        "GD":0,
         "twitter":"ColumbusCrewSC",
         "id":"608901959991451648"
     },
@@ -28,10 +28,10 @@
     },
     "DAL": {
         "Club":"dallas",
-        "GP":32,
-        "W":16,
+        "GP":33,
+        "W":17,
         "D":6,
-        "GD":11,
+        "GD":12,
         "twitter":"FCDallas",
         "id":"608901792299008000"
     },
@@ -73,19 +73,19 @@
     },
     "MTL": {
         "Club":"montreal",
-        "GP":32,
-        "W":13,
+        "GP":33,
+        "W":14,
         "D":6,
-        "GD":2,
+        "GD":3,
         "twitter":"impactmontreal",
         "id":"608901455026651136"
     },
     "NE": {
         "Club":"new england",
-        "GP":32,
+        "GP":33,
         "W":13,
         "D":8,
-        "GD":0,
+        "GD":-1,
         "twitter":"NERevolution",
         "id":"608901416363524096"
     },
@@ -136,10 +136,10 @@
     },
     "RSL": {
         "Club":"salt lake",
-        "GP":32,
+        "GP":33,
         "W":11,
         "D":8,
-        "GD":-7,
+        "GD":-8,
         "twitter":"RealSaltLake",
         "id":"608900863902425088"
     },
@@ -163,10 +163,10 @@
     },
     "TOR": {
         "Club":"toronto",
-        "GP":32,
+        "GP":33,
         "W":15,
         "D":4,
-        "GD":3,
+        "GD":1,
         "twitter":"torontofc",
         "id":"608900798857084928"
     },
