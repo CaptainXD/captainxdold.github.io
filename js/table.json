@@ -1,10 +1,10 @@
 {
     "CHI": {
         "Club":"chicago",
-        "GP":32,
+        "GP":33,
         "W":8,
         "D":6,
-        "GD":-10,
+        "GD":-14,
         "twitter":"ChicagoFire",
         "id":"608902021941317632"
     },
@@ -37,10 +37,10 @@
     },
     "DC": {
         "Club":"district of columbia",
-        "GP":32,
-        "W":14,
+        "GP":33,
+        "W":15,
         "D":6,
-        "GD":-1,
+        "GD":3,
         "twitter":"dcunited",
         "id":"608901679317024768"
     },
