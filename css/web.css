@@ -18,11 +18,34 @@ html, body {
     padding: 0;
 }
 
-h1 {
+#footer h1 {
     font-family: Lobster;
     font-size: 64px;
     color: #cbcbcb;
     text-align: center;
+}
+
+#menu ul {
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+
+#footer ul li, #footer ul li a {
+    color: #cbcbcb;
+    font-family: Open Sans;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+#menu {
+    z-index: -1;
+    position: absolute;
+    height: 80px;
+    width: 100%;
+    bottom: -15%;
+    display: none;
 }
 
 #navbar {
