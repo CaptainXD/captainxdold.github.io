@@ -5,6 +5,7 @@
         "W":8,
         "D":6,
         "GD":-14,
+        "conference": "east",
         "twitter":"ChicagoFire",
         "id":"608902021941317632"
     },
@@ -14,6 +15,7 @@
         "W":14,
         "D":8,
         "GD":0,
+        "conference": "east",
         "twitter":"ColumbusCrewSC",
         "id":"608901959991451648"
     },
@@ -23,6 +25,7 @@
         "W":8,
         "D":10,
         "GD":-9,
+        "conference": "west",
         "twitter":"ColoradoRapids",
         "id":"608901883869036544"
     },
@@ -32,6 +35,7 @@
         "W":17,
         "D":6,
         "GD":12,
+        "conference": "west",
         "twitter":"FCDallas",
         "id":"608901792299008000"
     },
@@ -41,6 +45,7 @@
         "W":15,
         "D":6,
         "GD":3,
+        "conference": "east",
         "twitter":"dcunited",
         "id":"608901679317024768"
     },
@@ -50,6 +55,7 @@
         "W":11,
         "D":9,
         "GD":-4,
+        "conference": "west",
         "twitter":"HoustonDynamo",
         "id":"608901603706306560"
     },
@@ -59,6 +65,7 @@
         "W":13,
         "D":9,
         "GD":4,
+        "conference": "west",
         "twitter":"SportingKC",
         "id":"608901560559468544"
     },
@@ -68,6 +75,7 @@
         "W":14,
         "D":9,
         "GD":11,
+        "conference": "west",
         "twitter":"LAGalaxy",
         "id":"608901519392382976"
     },
@@ -77,6 +85,7 @@
         "W":14,
         "D":6,
         "GD":3,
+        "conference": "east",
         "twitter":"impactmontreal",
         "id":"608901455026651136"
     },
@@ -86,6 +95,7 @@
         "W":13,
         "D":8,
         "GD":-1,
+        "conference": "east",
         "twitter":"NERevolution",
         "id":"608901416363524096"
     },
@@ -95,6 +105,7 @@
         "W":17,
         "D":6,
         "GD":18,
+        "conference": "east",
         "twitter":"NewYorkRedBulls",
         "id":"608901359622971392"
     },
@@ -104,6 +115,7 @@
         "W":10,
         "D":7,
         "GD":-7,
+        "conference": "east",
         "twitter":"NYCFC",
         "id":"608901315125628928"
     },
@@ -113,6 +125,7 @@
         "W":12,
         "D":8,
         "GD":-9,
+        "conference": "east",
         "twitter":"OrlandoCitySC",
         "id":"608901160137662465"
     },
@@ -122,6 +135,7 @@
         "W":14,
         "D":8,
         "GD":-1,
+        "conference": "west",
         "twitter":"TimbersFC",
         "id":"608901048116215809"
     },
@@ -131,6 +145,7 @@
         "W":9,
         "D":7,
         "GD":-14,
+        "conference": "east",
         "twitter":"PhilaUnion",
         "id":"608901009067286529"
     },
@@ -140,6 +155,7 @@
         "W":11,
         "D":8,
         "GD":-8,
+        "conference": "west",
         "twitter":"RealSaltLake",
         "id":"608900863902425088"
     },
@@ -149,6 +165,7 @@
         "W":14,
         "D":6,
         "GD":6,
+        "conference": "west",
         "twitter":"SoundersFC",
         "id":"608900677100707840"
     },
@@ -158,6 +175,7 @@
         "W":13,
         "D":8,
         "GD":3,
+        "conference": "west",
         "twitter":"SJEarthquakes",
         "id":"608900581940314115"
     },
@@ -167,6 +185,7 @@
         "W":15,
         "D":4,
         "GD":1,
+        "conference": "east",
         "twitter":"torontofc",
         "id":"608900798857084928"
     },
@@ -176,6 +195,7 @@
         "W":15,
         "D":5,
         "GD":6,
+        "conference": "west",
         "twitter":"WhitecapsFC",
         "id":"608900371465928704"
     }
