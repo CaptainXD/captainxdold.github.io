@@ -46,9 +46,9 @@
     },
     "HOU": {
         "Club":"houston",
-        "GP":32,
+        "GP":33,
         "W":11,
-        "D":8,
+        "D":9,
         "GD":-4,
         "twitter":"HoustonDynamo",
         "id":"608901603706306560"
@@ -64,10 +64,10 @@
     },
     "LA": {
         "Club":"los angeles",
-        "GP":32,
+        "GP":33,
         "W":14,
         "D":9,
-        "GD":14,
+        "GD":11,
         "twitter":"LAGalaxy",
         "id":"608901519392382976"
     },
@@ -91,10 +91,10 @@
     },
     "NY": {
         "Club":"new york",
-        "GP":32,
-        "W":16,
+        "GP":33,
+        "W":17,
         "D":6,
-        "GD":15,
+        "GD":18,
         "twitter":"NewYorkRedBulls",
         "id":"608901359622971392"
     },
@@ -118,19 +118,19 @@
     },
     "PDX": {
         "Club":"portland",
-        "GP":32,
-        "W":13,
+        "GP":33,
+        "W":14,
         "D":8,
-        "GD":-4,
+        "GD":-1,
         "twitter":"TimbersFC",
         "id":"608901048116215809"
     },
     "PHI": {
         "Club":"philiadelphia",
-        "GP":32,
+        "GP":33,
         "W":9,
         "D":7,
-        "GD":-11,
+        "GD":-14,
         "twitter":"PhilaUnion",
         "id":"608901009067286529"
     },
@@ -145,9 +145,9 @@
     },
     "SEA": {
         "Club":"seattle",
-        "GP":32,
+        "GP":33,
         "W":14,
-        "D":5,
+        "D":6,
         "GD":6,
         "twitter":"SoundersFC",
         "id":"608900677100707840"
