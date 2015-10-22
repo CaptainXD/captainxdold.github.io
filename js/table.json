@@ -21,11 +21,11 @@
     },
     "COL": {
         "Club":"colorado",
-        "GP":32,
-        "W":8,
+        "GP":33,
+        "W":9,
         "D":10,
-        "GD":-9,
-        "conference": "west",
+        "GD":-7,
+        "conference": "west", 
         "twitter":"ColoradoRapids",
         "id":"608901883869036544"
     },
@@ -61,10 +61,10 @@
     },
     "KC": {
         "Club":"kansas city",
-        "GP":32,
+        "GP":33,
         "W":13,
         "D":9,
-        "GD":4,
+        "GD":2,
         "conference": "west",
         "twitter":"SportingKC",
         "id":"608901560559468544"
