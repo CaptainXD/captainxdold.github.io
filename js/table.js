@@ -9,7 +9,7 @@ var differential = [];
 var points = [];
 var twitterUsername = [];
 var widgetId = [];
-var th = `<tr>
+var th = "<tr>
             <th id="cities"><a href="javascript:void(0)">Club</a></th>
             <th id="gamesPlayed"><a href="javascript:void(0)">G</a></th>
             <th id="wins"><a href="javascript:void(0)">W</a></th>
@@ -17,7 +17,7 @@ var th = `<tr>
             <th id="losses"><a href="javascript:void(0)">L</a></th>
             <th id="differential"><a href="javascript:void(0)">±</a></th>
             <th id="points"><a href="javascript:void(0)">P</a></th>
-        </tr>`;
+        </tr>";
 
 var standings;
 
